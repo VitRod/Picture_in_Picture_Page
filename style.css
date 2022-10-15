@@ -1,1 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(37, 37, 37);
+    background-image: url(./bg.jpg);
+  }
+
+  .button-container {
+    margin-top: 5rem;
+    border: 0.2px solid rgba(255, 255, 255, 0.295);
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: inset 0 20px 4px -19px rgba(16, 223, 102, 0.7);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
