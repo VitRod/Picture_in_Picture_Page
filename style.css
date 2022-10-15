@@ -65,7 +65,21 @@
     font-size: 1.5rem;
   }
 
-
+  @media only screen and (max-width: 600px) {
+    .info {
+      font-size: 1rem;
+    }
+  
+    .text {
+      text-align: center;
+    }
+  
+    li {
+      margin: 1.5rem;
+      font-size: 1.1rem;
+    }
+  }
+  
 
 
 
