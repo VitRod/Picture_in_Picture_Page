@@ -23,7 +23,7 @@ async function selectMediaStream() {
     button.disabled = false;
   });
 
-
+  selectMediaStream();
 
 
 
